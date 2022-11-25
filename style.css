@@ -1,3 +1,6 @@
-h1 {
-    color: red;
+div {
+   width: 100%; 
+   max-width: 200px;
+   height: 80vh;
+   background-color: rgba(0, 0, 0, 0.2);
 }
